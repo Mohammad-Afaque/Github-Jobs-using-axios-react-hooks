@@ -1,2 +1,2 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+There is the [live demo](https://elastic-archimedes-52257f.netlify.app).
 
